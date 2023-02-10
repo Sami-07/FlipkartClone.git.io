@@ -1,0 +1,20 @@
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .flex-center-cards{  
+display: flex;
+justify-content: center;
+align-items: center;
+padding-right: 60px;
+} */
+/* .inline-test{
+    display: inline;
+} */
+.categories {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
